@@ -9,7 +9,7 @@ function App() {
     //console.log(counter)
   }
   const dltValue=()=>{
-    setCounter(counter-1)
+    setCounter(counter-1 )
   }
   return (
     <>
